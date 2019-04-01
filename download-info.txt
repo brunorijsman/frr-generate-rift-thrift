@@ -1,2 +1,2 @@
-Latest model download date: Mon Apr  1 09:38:40 -03 2019
+Latest model download date: Mon Apr  1 09:52:15 -03 2019
 Model taken from draft: draft-ietf-rift-05.xml
